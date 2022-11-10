@@ -1,5 +1,5 @@
 # Data Structure Exercises
-Exercising data structures
+Doing some exercises with data structures
 
 ## Introduction
 
